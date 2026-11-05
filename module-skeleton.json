@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bookings-and-appointments-dart-desktop",
+  "capabilityKey": "planned:ecommerce:bookings-and-appointments",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_bookings_and_appointments_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/bookings-and-appointments.md",
+  "presentationPlan": "projects/ecommerce/features/bookings-and-appointments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
